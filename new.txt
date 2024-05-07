@@ -1,2 +1,6 @@
 arskadssejadasdsasads
+<<<<<<< HEAD
 commetresk 
+=======
+alto s
+>>>>>>> 2
